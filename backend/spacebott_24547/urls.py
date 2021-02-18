@@ -40,9 +40,9 @@ urlpatterns = [
     path("home/", include("home.urls")),
 ]
 
-admin.site.site_header = "Spacebott"
-admin.site.site_title = "Spacebott Admin Portal"
-admin.site.index_title = "Spacebott Admin"
+admin.site.site_header = "XXX-TO-DELETE Spacebott"
+admin.site.site_title = "XXX-TO-DELETE Spacebott Admin Portal"
+admin.site.index_title = "XXX-TO-DELETE Spacebott Admin"
 
 # swagger
 api_info = openapi.Info(
